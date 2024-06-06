@@ -58,23 +58,12 @@ The JavaScript file handles all the interactive aspects of the app, including ad
 - `deleteTask(taskId)`: Deletes a task from the list.
 - `toggleComplete(taskId)`: Marks a task as complete or incomplete.
 
-## Screenshots
+## Screenshot
 
 ### Main Interface
 
 ![Main Interface](screenshots/main-interface.png)
 
-### Adding a Task
-
-![Adding a Task](screenshots/adding-task.png)
-
-### Task Added
-
-![Task Added](screenshots/task-added.png)
-
-### Marking a Task as Complete
-
-![Marking a Task as Complete](screenshots/task-complete.png)
 
 ## Contributing
 
