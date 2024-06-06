@@ -69,13 +69,6 @@ The JavaScript file handles all the interactive aspects of the app, including ad
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-
-## Acknowledgments
-
-- [OpenAI](https://www.openai.com/) for providing the language model.
-- [MDN Web Docs](https://developer.mozilla.org/) for web development resources.
-- [W3Schools](https://www.w3schools.com/) for tutorials and references.
-
 ---
 
 This README file provides an overview and setup instructions for the TO DO List App. If you have any questions or need further assistance, feel free to reach out. Happy coding!
